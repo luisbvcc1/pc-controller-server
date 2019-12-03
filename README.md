@@ -61,7 +61,7 @@ def control(anss):
 
  1. **gmail不給登入授權:**
 可以參考這篇文章，蠻清楚的
-  [1]: https://blog.csdn.net/qianghaohao/article/details/79331895
+https://blog.csdn.net/qianghaohao/article/details/79331895
  2. **line串接的問題**
 自行排除，我懶得的打XD
  3. **自己改過code，噴錯**
