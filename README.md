@@ -2,7 +2,7 @@
 
 這是一個使用line-bot遠端控制電腦的code(server)
 
----
+
 
 ### **環境**
 Python3.6
@@ -60,7 +60,7 @@ def control(anss):
 ### **問題排除**
 
  1. **gmail不給登入授權:**
-可以參考這篇文章，蠻清楚的，[連接在此][1]
+可以參考這篇文章，蠻清楚的
   [1]: https://blog.csdn.net/qianghaohao/article/details/79331895
  2. **line串接的問題**
 自行排除，我懶得的打XD
