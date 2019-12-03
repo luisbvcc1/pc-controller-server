@@ -49,7 +49,7 @@ def control(anss):
     return content
 ```
  3.發佈到Heroku
- 4.如果還沒下載client端，左轉client端 https://github.com/luisbvcc1/pc-controller-client
+ 4.如果還沒下載client端，左轉client端 https://github.com/luisbvcc1/Pc-Remote-Controller-client
 ### **使用方法**
 這裡的code只有實現cmd指令控制電腦，如果要自己新增功能，依樣畫葫蘆就可以了~~
 
